@@ -13,7 +13,8 @@ The goal was to build something interactive, visually clean, and genuinely helpf
 ---
 
 ## 🖼️ Sneak Peek
-./PIC1.png
+
+| ![Picture1 View](./PIC1.png) |
 
 
 ## 📌 What You’ll Find in the Dashboard
@@ -36,12 +37,10 @@ You can slice the data by:
 
 There are filters throughout the dashboard, so you can easily change the view based on what you care about most.
 
+More Sneek Peek
+![Picture2](./PIC2.png)
+![Picture3](./Picture3.png)
 
-
-
-| Salary Overview | Averages View | Business Unit View |
-|-----------------|----------------|---------------------|
-| ![Salary View](./75a5d386-5aa0-4da5-9f68-1501525f6cc1.png) | ![Average View](./dd735d91-7d72-45f1-b02c-ac6f4b18c82b.png) | ![Business Unit](./ab4ef389-d76c-43d7-a3ab-5fa3f2b8b4f9.png) |
 
 ---
 
