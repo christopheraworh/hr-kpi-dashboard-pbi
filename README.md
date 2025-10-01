@@ -12,6 +12,10 @@ The goal was to build something interactive, visually clean, and genuinely helpf
 
 ---
 
+## 🖼️ Sneak Peek
+[Pic1 View](./PIC1.png)
+
+
 ## 📌 What You’ll Find in the Dashboard
 
 Here are some of the key numbers and breakdowns:
@@ -33,7 +37,7 @@ You can slice the data by:
 There are filters throughout the dashboard, so you can easily change the view based on what you care about most.
 
 
-## 🖼️ Sneak Peek
+
 
 | Salary Overview | Averages View | Business Unit View |
 |-----------------|----------------|---------------------|
