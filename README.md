@@ -13,7 +13,7 @@ The goal was to build something interactive, visually clean, and genuinely helpf
 ---
 
 ## 🖼️ Sneak Peek
-[Pic1 View](./PIC1.png)
+./PIC1.png
 
 
 ## 📌 What You’ll Find in the Dashboard
